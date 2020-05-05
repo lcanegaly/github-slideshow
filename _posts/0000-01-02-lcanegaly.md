@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+:man_facepalming:
 Use the left arrow to go back!
